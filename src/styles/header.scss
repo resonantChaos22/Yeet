@@ -1,0 +1,19 @@
+$headerColor: rgb(255, 248, 197);
+
+.head {
+    background-color: $headerColor;
+
+    .container {
+
+        padding: 1% !important;
+
+        h1 {
+            margin-bottom: 0 !important;
+            ;
+        }
+
+        h3 {
+            margin-top: 0 !important;
+        }
+    }
+}

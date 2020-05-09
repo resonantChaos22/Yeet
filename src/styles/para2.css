@@ -1,0 +1,47 @@
+.para2 {
+  background-color: #fff8c5;
+}
+
+.para2 .container .cardss {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 1% !important;
+}
+
+.para2 .container .cardss .card_n {
+  padding: 1% !important;
+}
+
+.para2 .container .cardss .card_n .stuff {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 2% !important;
+}
+
+.para2 .container .subscriber {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  font-size: 150% !important;
+  padding-right: 5% !important;
+  padding-left: 5% !important;
+}
+
+.para2 .container .subscriber .field {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 5% !important;
+}
+/*# sourceMappingURL=para2.css.map */

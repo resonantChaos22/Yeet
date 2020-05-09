@@ -1,0 +1,31 @@
+$para2Color: rgb(255, 248, 197);
+
+.para2{
+    background-color: $para2Color;
+    .container{
+        .cardss{
+            display: flex;
+            justify-content: center;
+            padding: 1% !important;
+            .card_n{
+                padding: 1% !important;
+                .stuff{
+                    display: flex;
+                    justify-content: center;
+                    padding: 2% !important;
+                }
+            }
+        }
+        .subscriber{
+            display: flex;
+            justify-content: space-between;
+            font-size: 150% !important;
+            padding-right: 5% !important;
+            padding-left: 5% !important;
+            .field{
+                display: flex;
+                margin-left: 5% !important;
+            }
+        }
+    }
+}

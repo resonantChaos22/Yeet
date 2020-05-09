@@ -1,0 +1,31 @@
+.nav {
+  border-bottom: #3d3400 1px solid;
+}
+
+.nav .navbar {
+  background-color: #ffdf29;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding: 0.75% !important;
+  padding-bottom: 0% !important;
+}
+
+.nav .navbar .left,
+.nav .navbar .right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nav .navbar .left .item,
+.nav .navbar .right .item {
+  -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+  background-color: #ffdf29;
+  border: none;
+}
+/*# sourceMappingURL=navbar.css.map */

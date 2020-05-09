@@ -1,0 +1,16 @@
+.head {
+  background-color: #fff8c5;
+}
+
+.head .container {
+  padding: 1% !important;
+}
+
+.head .container h1 {
+  margin-bottom: 0 !important;
+}
+
+.head .container h3 {
+  margin-top: 0 !important;
+}
+/*# sourceMappingURL=header.css.map */

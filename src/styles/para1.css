@@ -1,0 +1,33 @@
+.para1 {
+  background-color: #ffdf29;
+}
+
+.para1 .line1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 200%;
+  padding-top: 5%;
+  padding-bottom: 0%;
+}
+
+.para1 .line2 {
+  font-size: 120%;
+  padding: 1%;
+  padding-bottom: 0%;
+}
+
+.para1 .field {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.para1 div .button {
+  margin: 0.5% !important;
+  margin-top: 0 !important;
+}
+/*# sourceMappingURL=para1.css.map */
